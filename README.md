@@ -6,4 +6,5 @@ A clean graphic design project featuring a GT3RS car poster .
 * Automotive branding style
  ## Tools
  * Graphic Design Software (canva)
--------- Designed by **Kritika Adhikari**
+   
+------ Designed by **Kritika Adhikari**
